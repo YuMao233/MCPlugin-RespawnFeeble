@@ -1,8 +1,8 @@
 # RespawnFeeble 插件
 ##### 依附于Minecraft游戏服务端的一款插件
 ###RespawnFeeble 1.1 插件实现界面
-![src/1.png](src/1.png)
-![src/2.png](src/2.png)
+![1.png](1.png)
+![2.png](2.png)
 
 ## 这个玩意有什么用？QVQ
 ###当玩家死亡重生之时，将会进入你所设置的“虚弱状态”，可以有效的压迫玩家“珍惜生命”。
