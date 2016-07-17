@@ -1,0 +1,20 @@
+#版本号配置，切勿修改
+version: 1.1
+#是否开启重生就会进入虚弱状态
+RespawnWeakness:
+    Enable: true
+    RespawnHealth: 1
+    Time: 60
+    EffectList:
+            - '1'
+            - '8'
+            - '2'
+            - '6'
+            - '9'
+#是否开启 生命垂危时进入 特定状态
+HealthWeakness:
+    Enable: true
+    MinHealth: 4
+    Time: 15
+    EffectList:
+            - '10'
