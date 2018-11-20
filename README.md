@@ -1,6 +1,13 @@
 ### Mincraft Bukkit RespawnFeeble 插件
+
+- This repository has been archived by the owner. It is now read-only.
+- 这个项目已经归档，代码将不再更新，你现在只能阅读代码，无法修改。
+<br />
+
 ![1.png](1.png)
 ![2.png](2.png)
+
+
 
 ## 这个玩意有什么用？QVQ
 > 当玩家死亡重生之时，将会进入你所设置的“虚弱状态”，可以有效的压迫玩家“珍惜生命”。
