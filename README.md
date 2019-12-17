@@ -1,3 +1,5 @@
+注意，本项目已经停止维护，对于最新版本的 Minecraft 服务端可能已经无法兼容，请谨慎使用源代码。
+
 ### Mincraft Bukkit RespawnFeeble 插件
 
 - This repository has been archived by the owner. It is now read-only.
